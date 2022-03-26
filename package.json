@@ -15,10 +15,10 @@
     "license": "",
     "devDependencies": {
         "electron": "^8.0.3",
-        "minimist": ">=1.2.2"
+        "minimist": ">=1.2.6"
     },
     "dependencies": {
         "nodemon": "^2.0.2",
-        "minimist": ">=1.2.2"
+        "minimist": ">=1.2.6"
     }
 }
